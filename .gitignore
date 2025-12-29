@@ -1,0 +1,15 @@
+# Personal documentation with specific IPs and details
+JIM_README.md
+README.docx
+
+# Git files
+.git/
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
