@@ -146,11 +146,19 @@ sudo chown -R youruser:youruser /opt/podsync/scripts
 sudo chown -R youruser:youruser /opt/podsync/data/oneoff
 ```
 
-3. **Download the scripts:**
+3. **Create the scripts:**
 
-Save `generate-feed.sh` and `poll-audio.sh` from this repo to `/opt/podsync/scripts/`
+The scripts are embedded in this README (see [Scripts](#scripts) section below). Copy and paste each script into a file:
 
-Or create them manually (see [Scripts](#scripts) section below).
+```bash
+# Create generate-feed.sh
+nano /opt/podsync/scripts/generate-feed.sh
+# Copy and paste the generate-feed.sh script from the Scripts section below
+
+# Create poll-audio.sh
+nano /opt/podsync/scripts/poll-audio.sh
+# Copy and paste the poll-audio.sh script from the Scripts section below
+```
 
 4. **Make scripts executable:**
 
