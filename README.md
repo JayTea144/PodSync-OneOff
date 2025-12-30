@@ -16,6 +16,10 @@ This project extends PodSync (which converts YouTube channels to podcast RSS fee
   - Change detection (only regenerates when needed)
   - Works with any podcast app that supports local feeds
 
+### Example Podcast Cover
+
+![One-Off Audio Feed Cover](cover.png)
+
 ## Architecture
 
 ```

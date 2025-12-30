@@ -2,6 +2,9 @@
 JIM_README.md
 README.docx
 
+# Screenshot directory (for local development only)
+images/
+
 # Git files
 .git/
 
